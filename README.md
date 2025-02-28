@@ -32,4 +32,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/youngjewoo/leetcodes/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/youngjewoo/leetcodes/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/youngjewoo/leetcodes/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/youngjewoo/leetcodes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
